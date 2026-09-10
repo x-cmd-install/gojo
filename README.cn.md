@@ -4,41 +4,13 @@
 
 Yet another Go implementation of jo
 
-![gojo](https://repo.x-cmd.io/gojo.svg)
+![gojo](https://repo.x-cmd.io/gojo.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install gojo
 ```
-
-## 源代码
-
-- **上游仓库**: <https://github.com/itchyny/gojo>
-- **许可证**: MIT
-
-## 发布
-
-- **最新版本**: `v0.3.3` (2025-06-21)
-- **最近提交**: 2025-06-21
-- **Release 含资产**: 6 个
-- **发布时间**: 2025-06-21T12:36:57Z
-
-## 流行度
-
-- **Star**: 63 · **Fork**: 3 · **开放 issue**: 2 · **贡献者**: 1
-
-## 累计统计
-
-- **发布数**: 18 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 2 · **开放 issue**: 0 · **提交数**: 164
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## 代码规模
 
@@ -62,6 +34,47 @@ x install gojo
 - **Packaging** (-1/10) — packaging workflow not detected
 - **SAST** (0/10) — no SAST tool detected
 
+## 源代码
+
+- **上游仓库**: <https://github.com/itchyny/gojo>
+- **许可证**: MIT
+
+## 发布
+
+- **最新版本**: `v0.3.3` (2025-06-21)
+- **最近提交**: 2025-06-21
+- **Release 含资产**: 6 个
+
+## 流行度
+
+- **Star**: 63 · **Fork**: 3 · **开放 issue**: 2 · **贡献者**: 1
+
+## 累计统计
+
+- **发布数**: 18 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 2 · **开放 issue**: 0 · **提交数**: 164
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 1 | 0 | 0 | 0 | 0 | 6 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [gojo_v0.3.3_darwin_amd64.zip](https://github.com/itchyny/gojo/releases/download/v0.3.3/gojo_v0.3.3_darwin_amd64.zip) | 1.0 MiB | `native/darwin/x64` |
+| [gojo_v0.3.3_darwin_arm64.zip](https://github.com/itchyny/gojo/releases/download/v0.3.3/gojo_v0.3.3_darwin_arm64.zip) | 972.0 KiB | `native/darwin/arm64` |
+| [gojo_v0.3.3_linux_amd64.tar.gz](https://github.com/itchyny/gojo/releases/download/v0.3.3/gojo_v0.3.3_linux_amd64.tar.gz) | 1000.9 KiB | `native/linux/x64` |
+| [gojo_v0.3.3_linux_arm64.tar.gz](https://github.com/itchyny/gojo/releases/download/v0.3.3/gojo_v0.3.3_linux_arm64.tar.gz) | 930.6 KiB | `native/linux/arm64` |
+| [gojo_v0.3.3_windows_amd64.zip](https://github.com/itchyny/gojo/releases/download/v0.3.3/gojo_v0.3.3_windows_amd64.zip) | 1.0 MiB | `native/win/x64` |
+| [gojo_v0.3.3_windows_arm64.zip](https://github.com/itchyny/gojo/releases/download/v0.3.3/gojo_v0.3.3_windows_arm64.zip) | 966.8 KiB | `native/win/arm64` |
+
 ## 改进这些数据
 
 gojo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `gojo` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -71,4 +84,4 @@ gojo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:50:17Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:42:50Z._
