@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.3.3"
   latestRelease: "v0.3.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:50:11Z
+  collectedAt: 2026-09-10T20:42:40Z
 timeline:
   created: 2019-03-14
   lastCommit: 2025-06-21
@@ -84,7 +84,7 @@ total:
   commit: 164
 ---
 path: /home/runner/.x-repo/github.com/itchyny/gojo
-collectedAt: 2026-09-10T05:50:12Z
+collectedAt: 2026-09-10T20:42:41Z
 loc:
   Go:
     code: 774
