@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1024900,
       "digest": "sha256:f4e3edccf6dd8bb7a8e147a3fee74fcc98dd589dc70bff774ce15605ca921ebc",
-      "download_count": 179,
+      "download_count": 181,
       "created_at": "2025-06-21T12:36:58Z",
       "updated_at": "2025-06-21T12:36:58Z",
       "browser_download_url": "https://github.com/itchyny/gojo/releases/download/v0.3.3/gojo_v0.3.3_linux_amd64.tar.gz"
