@@ -1,0 +1,44 @@
+- repo: nix_stable_25_05
+  srcname: gojo
+  visiblename: gojo
+  version: 0.3.2
+  origversion: null
+  status: outdated
+  summary: Yet another Go implementation of jo
+  maintainers:
+    - xiaoxiangmoe@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: gojo
+  visiblename: gojo
+  version: 0.3.3
+  origversion: null
+  status: unique
+  summary: Yet another Go implementation of jo
+  maintainers:
+    - xiaoxiangmoe@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: gojo
+  visiblename: gojo
+  version: 0.3.3
+  origversion: null
+  status: unique
+  summary: Yet another Go implementation of jo
+  maintainers:
+    - xiaoxiangmoe@gmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: gojo
+  visiblename: gojo
+  version: 0.3.3
+  origversion: null
+  status: unique
+  summary: Yet another Go implementation of jo
+  maintainers:
+    - xiaoxiangmoe@gmail.com
+  licenses:
+    - MIT
